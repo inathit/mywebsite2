@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://inathit.github.io/mywebsite2/sitemap.xml
